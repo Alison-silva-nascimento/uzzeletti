@@ -1,0 +1,18 @@
+:root {
+  --red-950: #310006;
+  --red-900: #4a000a;
+  --red-800: #65000f;
+  --red-700: #820017;
+  --gold-100: #fff2c3;
+  --gold-300: #e9c66e;
+  --gold-500: #c79a32;
+  --gold-700: #8d6316;
+  --ivory: #fffaf0;
+  --ink: #1e0b0d;
+  --muted: #bda9a2;
+  --line: rgba(233, 198, 110, .28);
+  --serif: Georgia, 'Times New Roman', serif;
+  --sans: Inter, 'Segoe UI', Arial, sans-serif;
+  --container: min(1180px, calc(100% - 40px));
+  --ease: 220ms ease;
+}

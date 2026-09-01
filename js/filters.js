@@ -1,0 +1,5 @@
+let allProducts=[],activeCategory='todos';
+const grid=document.querySelector('#catalog-grid'), count=document.querySelector('#results-count'), order=document.querySelector('#sort');
+async function initCatalog(){if(!grid)return;allProducts=await getProducts();renderCatalog();document.querySelectorAll('[data-category]').forEach(btn=>btn.addEventListener('click',()=>{document.querySelector('.filter-btn.active')?.classList.remove('active');btn.classList.add('active');activeCategory=btn.dataset.category;renderCatalog()}));order?.addEventListener('change',renderCatalog)}
+function renderCatalog(){let items=allProducts.filter(p=>activeCategory==='todos'||p.category===activeCategory);if(order?.value==='low')items.sort((a,b)=>a.price-b.price);if(order?.value==='high')items.sort((a,b)=>b.price-a.price);if(order?.value==='new')items.sort((a,b)=>Number(b.new)-Number(a.new));grid.innerHTML=items.map(productCard).join('');count.textContent=`${items.length} ${items.length===1?'produto':'produtos'}`}
+initCatalog();

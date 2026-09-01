@@ -1,0 +1,2 @@
+async function renderCollections(){const root=document.querySelector('#collection-list');if(!root)return;const data=await (await fetch('data/collections.json')).json();root.innerHTML=data.map(c=>`<article class="collection-row"><div class="collection-image"><img src="${c.image}" alt="Coleção ${c.title}" loading="lazy"></div><div class="collection-copy"><span class="eyebrow">Coleção UZZELETTI</span><h2>${c.title}</h2><p class="muted">${c.description}</p><p><a class="btn btn-outline" href="produtos.html">Ver produtos</a></p></div></article>`).join('')}
+renderCollections();
