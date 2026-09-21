@@ -1,5 +1,5 @@
 const current = location.pathname.split('/').pop() || 'index.html';
-const links = [['index.html','Home'],['produtos.html','Produtos'],['colecoes.html','Coleções'],['novidades.html','Novidades'],['sobre.html','Sobre'],['contato.html','Contato']];
+const links = [['index.html','Home'],['produtos.html','Produtos'],['produtos.html?categoria=eroticos','Produtos eróticos'],['colecoes.html','Coleções'],['novidades.html','Novidades'],['sobre.html','Sobre'],['contato.html','Contato']];
 const header = document.querySelector('[data-header]');
 const footer = document.querySelector('[data-footer]');
 if(header) header.innerHTML = `<a class="skip-link" href="#conteudo">Pular para o conteúdo</a><header class="site-header"><div class="container nav-wrap"><a class="brand" href="index.html" aria-label="UZZELETI — início"><img src="assets/logo/uzzeletti-logo.png" alt="UZZELETI Moda Íntima"></a><button class="menu-toggle" aria-label="Abrir menu" aria-expanded="false">☰</button><nav class="nav" aria-label="Navegação principal">${links.map(([href,label])=>`<a href="${href}" ${current===href?'aria-current="page"':''}>${label}</a>`).join('')}<a class="header-cta" href="contato.html">Fale conosco</a></nav></div></header>`;
