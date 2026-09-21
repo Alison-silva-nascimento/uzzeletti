@@ -3,3 +3,5 @@
 .product-sizes{margin:.45rem 0;color:var(--muted);font-size:.72rem}.product-cta{display:inline-block;margin-top:.4rem;color:var(--gold-300);font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
 
 .product-card.editorial-product .product-media,.product-gallery.editorial-product{background:url('../assets/images/catalog/catalog-satin-background.png') center/cover}.product-card.editorial-product .product-media img,.product-gallery.editorial-product .main-image,.product-gallery.editorial-product .thumb img{mix-blend-mode:multiply}
+
+.product-card.editorial-product.category-camisolas .product-media,.product-gallery.editorial-product.category-camisolas{background-image:url('../assets/images/catalog/catalog-satin-light.png')}
