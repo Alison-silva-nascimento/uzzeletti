@@ -234,5 +234,379 @@
       "assets/images/catalog/gel-dessensibilizante.png"
     ],
     "description": "Gel dessensibilizante."
+  },
+  {
+    "id": 12,
+    "slug": "novidade-01",
+    "name": "Conjunto Oliva",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-01.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 13,
+    "slug": "novidade-02",
+    "name": "Conjunto Rubi",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-02.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 14,
+    "slug": "novidade-03",
+    "name": "Conjunto Violeta",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-03.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 15,
+    "slug": "novidade-04",
+    "name": "Conjunto Bordô",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-04.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 16,
+    "slug": "novidade-05",
+    "name": "Conjunto Noite",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-05.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 17,
+    "slug": "novidade-06",
+    "name": "Conjunto Carmim",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-06.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 18,
+    "slug": "novidade-07",
+    "name": "Conjunto Rosé",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-07.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 19,
+    "slug": "novidade-08",
+    "name": "Camisola Champagne",
+    "category": "camisolas",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-08.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 20,
+    "slug": "novidade-09",
+    "name": "Conjunto Escarlate",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-09.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 21,
+    "slug": "novidade-10",
+    "name": "Camisola Pêssego",
+    "category": "camisolas",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-10.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 22,
+    "slug": "novidade-11",
+    "name": "Camisola Rosé",
+    "category": "camisolas",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-11.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 23,
+    "slug": "novidade-12",
+    "name": "Camisola Nude",
+    "category": "camisolas",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-12.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 24,
+    "slug": "novidade-13",
+    "name": "Corset Cacau",
+    "category": "bodies",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-13.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 25,
+    "slug": "novidade-14",
+    "name": "Camisola Blush",
+    "category": "camisolas",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-14.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 26,
+    "slug": "novidade-15",
+    "name": "Conjunto Pink",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-15.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 27,
+    "slug": "novidade-16",
+    "name": "Conjunto Ameixa",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-16.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 28,
+    "slug": "novidade-17",
+    "name": "Conjunto Cereja",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-17.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 29,
+    "slug": "novidade-18",
+    "name": "Conjunto Bordeaux",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-18.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 30,
+    "slug": "novidade-19",
+    "name": "Body Rubi",
+    "category": "bodies",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-19.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 31,
+    "slug": "novidade-20",
+    "name": "Conjunto Bronze",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-20.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 32,
+    "slug": "novidade-21",
+    "name": "Conjunto Pérola",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-21.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 33,
+    "slug": "novidade-22",
+    "name": "Conjunto Rosa",
+    "category": "conjuntos",
+    "price": null,
+    "sizes": [],
+    "colors": [],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/novidade-22.jpeg"
+    ],
+    "description": "Peça disponível para consulta de disponibilidade."
   }
 ]
