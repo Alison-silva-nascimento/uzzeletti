@@ -27,7 +27,7 @@
   .page-hero .eyebrow{font-size:.66rem;letter-spacing:.2em}
   .page-title{font-size:clamp(3rem,14vw,4.15rem);line-height:.88;letter-spacing:-.035em;text-shadow:0 4px 18px rgba(20,0,3,.42)}
 
-  .section{padding:48px 0}.section-head{gap:12px;margin-bottom:25px}.section-title{font-size:2.35rem;line-height:.94}.gold{font-size:.76rem;letter-spacing:.08em}
+  .section{padding:48px 0}.section-head{gap:12px;margin-bottom:25px}.section-title{font-size:2.35rem;line-height:.94}a.gold{font-size:.76rem;letter-spacing:.08em}
   .catalog-top{gap:14px;margin-bottom:20px;padding:14px;border:1px solid rgba(233,198,110,.18);border-radius:18px;background:linear-gradient(135deg,rgba(111,9,25,.52),rgba(43,0,7,.54));box-shadow:inset 0 1px rgba(255,255,255,.035)}
   .catalog-top .mobile-filter{width:100%;min-height:48px;border-radius:999px;background:rgba(59,0,10,.54)}
   .catalog-top label{font-size:.72rem;letter-spacing:.08em}.catalog-top .select,.catalog-top label .custom-select{min-width:0!important;width:100%}
@@ -46,3 +46,11 @@
   .whatsapp-float{width:54px;height:54px;right:18px;bottom:18px;border-radius:50%;box-shadow:0 12px 26px rgba(20,0,3,.38),0 0 0 5px rgba(233,198,110,.12)}
 }
 @media (max-width:600px){.site-header .brand{position:absolute;left:50%;transform:translateX(-50%);z-index:2}.site-header .nav-wrap{justify-content:center}}
+
+/* Heros internos com acabamento editorial, sem blocos retos. */
+@media (max-width:600px){
+  .page-hero{margin:124px 12px 0;padding:38px 22px 48px!important;border:1px solid rgba(233,198,110,.2);border-radius:26px;box-shadow:0 18px 36px rgba(20,0,3,.32);background-position:62% center}
+  .page-hero::after{inset:10px;border-radius:18px}
+  .page-hero .page-title .gold{font-size:inherit;letter-spacing:inherit}
+  .contact-page .page-hero{margin-top:124px;padding-top:38px!important}
+}
