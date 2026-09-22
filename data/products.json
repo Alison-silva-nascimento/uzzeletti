@@ -802,5 +802,30 @@
       "assets/images/catalog/conjunto-sexy-editorial.png"
     ],
     "description": "Conjunto sexy com renda, liga e meias."
+  },
+  {
+    "id": 50,
+    "slug": "conjunto-conforto",
+    "name": "Conjunto Conforto",
+    "category": "conjuntos",
+    "price": 115.0,
+    "sizes": [
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Branco",
+      "Bronze",
+      "Preto"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/conjunto-conforto.png"
+    ],
+    "description": "Conjunto confortável com acabamento em renda."
   }
 ]
