@@ -5,3 +5,4 @@
 .product-card.editorial-product .product-media,.product-gallery.editorial-product{background:url('../assets/images/catalog/catalog-satin-background.png') center/cover}.product-card.editorial-product .product-media img,.product-gallery.editorial-product .main-image,.product-gallery.editorial-product .thumb img{mix-blend-mode:multiply}
 
 .product-card.editorial-product.category-camisolas .product-media,.product-gallery.editorial-product.category-camisolas{background-image:url('../assets/images/catalog/catalog-satin-light.png')}
+.empty-state{grid-column:1/-1}
