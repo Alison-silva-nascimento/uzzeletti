@@ -420,5 +420,387 @@
       "assets/images/catalog/novidade-22.jpeg"
     ],
     "description": "Peça disponível para consulta de disponibilidade."
+  },
+  {
+    "id": 34,
+    "slug": "camisola-rose-52",
+    "name": "Camisola Rosé",
+    "category": "camisolas",
+    "price": 80.0,
+    "sizes": [
+      "52"
+    ],
+    "colors": [
+      "Rosa",
+      "Champagne",
+      "Preto"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/camisola-rose-52.png"
+    ],
+    "description": "Camisola delicada com acabamento em renda."
+  },
+  {
+    "id": 35,
+    "slug": "camisola-preta-sem-bojo",
+    "name": "Camisola sem Bojo Preta",
+    "category": "camisolas",
+    "price": 111.9,
+    "sizes": [
+      "GG",
+      "M",
+      "G"
+    ],
+    "colors": [
+      "Bronze",
+      "Preto",
+      "Branco"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/camisola-preta-sem-bojo.png"
+    ],
+    "description": "Camisola sem bojo com detalhe em renda."
+  },
+  {
+    "id": 36,
+    "slug": "camisola-rosa-romance",
+    "name": "Camisola sem Bojo Rosa Romance",
+    "category": "camisolas",
+    "price": 133.0,
+    "sizes": [
+      "P",
+      "M",
+      "GG"
+    ],
+    "colors": [
+      "Preto",
+      "Rosa Romance"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/camisola-rosa-romance.png"
+    ],
+    "description": "Camisola sem bojo em rosa romance."
+  },
+  {
+    "id": 37,
+    "slug": "conjunto-leveza-conforto",
+    "name": "Conjunto Leveza e Conforto sem Aro Soft",
+    "category": "conjuntos",
+    "price": 90.0,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Branco",
+      "Preto",
+      "Canela",
+      "Rubi",
+      "Roxo",
+      "Odalisca",
+      "Bronze"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/conjunto-leveza-conforto.png"
+    ],
+    "description": "Conjunto leve e confortável, sem aro soft."
+  },
+  {
+    "id": 38,
+    "slug": "conjunto-renda-rubi",
+    "name": "Conjunto Renda Rubi",
+    "category": "conjuntos",
+    "price": 75.0,
+    "sizes": [
+      "M"
+    ],
+    "colors": [
+      "Rubi",
+      "Branco"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/conjunto-renda-rubi.png"
+    ],
+    "description": "Conjunto em renda com fio duplo."
+  },
+  {
+    "id": 39,
+    "slug": "conjunto-renda-rufle",
+    "name": "Conjunto Renda e Ruffle Fio Duplo",
+    "category": "conjuntos",
+    "price": 120.0,
+    "sizes": [
+      "G"
+    ],
+    "colors": [
+      "Branco",
+      "Vermelho",
+      "Preto"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/conjunto-renda-rufle.png"
+    ],
+    "description": "Conjunto em renda com ruffle e calcinha fio duplo."
+  },
+  {
+    "id": 40,
+    "slug": "conjunto-sexy-bordo",
+    "name": "Conjunto Sexy Bordô",
+    "category": "conjuntos",
+    "price": 130.0,
+    "sizes": [
+      "M",
+      "G"
+    ],
+    "colors": [
+      "Vermelho",
+      "Branco",
+      "Preto"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/conjunto-sexy-bordo.png"
+    ],
+    "description": "Conjunto sexy em renda."
+  },
+  {
+    "id": 41,
+    "slug": "conjunto-cropped-verde",
+    "name": "Conjunto Cropped",
+    "category": "conjuntos",
+    "price": 130.0,
+    "sizes": [
+      "M",
+      "G"
+    ],
+    "colors": [
+      "Preto",
+      "Verde Floresta",
+      "Branco"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/conjunto-cropped-verde.png"
+    ],
+    "description": "Conjunto cropped em renda."
+  },
+  {
+    "id": 42,
+    "slug": "conjunto-renda-bordo",
+    "name": "Conjunto Renda Bordô",
+    "category": "conjuntos",
+    "price": 120.0,
+    "sizes": [
+      "M",
+      "G"
+    ],
+    "colors": [
+      "Preto",
+      "Vermelho",
+      "Branco"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/conjunto-renda-bordo.png"
+    ],
+    "description": "Conjunto em renda com acabamento delicado."
+  },
+  {
+    "id": 43,
+    "slug": "conjunto-renda-preto",
+    "name": "Conjunto Renda Calcinha Fio Duplo",
+    "category": "conjuntos",
+    "price": 70.0,
+    "sizes": [
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Preto"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/conjunto-renda-preto.png"
+    ],
+    "description": "Conjunto em renda com calcinha fio duplo."
+  },
+  {
+    "id": 44,
+    "slug": "conjunto-renda-roxo",
+    "name": "Conjunto Renda Calcinha Fio Duplo Rendado",
+    "category": "conjuntos",
+    "price": 90.0,
+    "sizes": [
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Roxo",
+      "Branco",
+      "Preto",
+      "Amarelo",
+      "Verde Floresta"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/conjunto-renda-roxo.png"
+    ],
+    "description": "Conjunto rendado com calcinha fio duplo."
+  },
+  {
+    "id": 45,
+    "slug": "conjunto-charme",
+    "name": "Conjunto Charme",
+    "category": "conjuntos",
+    "price": 110.0,
+    "sizes": [
+      "GG"
+    ],
+    "colors": [
+      "Vermelho",
+      "Preto",
+      "Branco"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/conjunto-charme.png"
+    ],
+    "description": "Conjunto charme em renda."
+  },
+  {
+    "id": 46,
+    "slug": "conjunto-renda-rosa",
+    "name": "Conjunto Renda Fio Duplo",
+    "category": "conjuntos",
+    "price": 120.0,
+    "sizes": [
+      "M"
+    ],
+    "colors": [
+      "Branco",
+      "Rosa"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/conjunto-renda-rosa.png"
+    ],
+    "description": "Conjunto em renda com fio duplo."
+  },
+  {
+    "id": 47,
+    "slug": "conjunto-bronze",
+    "name": "Conjunto Bronze",
+    "category": "conjuntos",
+    "price": 90.0,
+    "sizes": [
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Amarelo",
+      "Roxo",
+      "Bronze",
+      "Branco"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/conjunto-bronze.png"
+    ],
+    "description": "Conjunto em renda disponível em cores selecionadas."
+  },
+  {
+    "id": 48,
+    "slug": "camisola-vermelha-com-calcinha-fio",
+    "name": "Camisola Vermelha com Calcinha Fio",
+    "category": "camisolas",
+    "price": 80.0,
+    "sizes": [
+      "G"
+    ],
+    "colors": [
+      "Preto",
+      "Vermelho"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": false,
+    "images": [
+      "assets/images/catalog/camisola-vermelha-editorial.png"
+    ],
+    "description": "Camisola sem bojo com calcinha fio inclusa."
+  },
+  {
+    "id": 49,
+    "slug": "conjunto-sexy",
+    "name": "Conjunto Sexy",
+    "category": "conjuntos",
+    "price": 50.0,
+    "sizes": [
+      "M"
+    ],
+    "colors": [
+      "Preto",
+      "Vermelho"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": false,
+    "images": [
+      "assets/images/catalog/conjunto-sexy-editorial.png"
+    ],
+    "description": "Conjunto sexy com renda, liga e meias."
   }
 ]
