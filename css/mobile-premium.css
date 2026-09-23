@@ -6,7 +6,7 @@
   .site-header .nav-wrap{height:72px;padding-inline:20px}
   .site-header .brand img{width:138px;height:61px}
   .site-header .mobile-nav{height:52px;background:rgba(55,0,9,.92);backdrop-filter:blur(16px);border-color:rgba(233,198,110,.24);box-shadow:0 10px 24px rgba(20,0,3,.22)}
-  .site-header .mobile-nav a{position:relative;font-size:.6rem;letter-spacing:.075em;color:#f6e7de}
+  .site-header .mobile-nav a{position:relative;font-size:.6rem;letter-spacing:.075em;color:var(--gold-300);text-shadow:0 0 8px rgba(233,198,110,.18)}
   .site-header .mobile-nav a[aria-current=page]{background:radial-gradient(circle at 50% 100%,rgba(233,198,110,.2),transparent 65%);text-shadow:0 0 12px rgba(233,198,110,.42)}
   .site-header .mobile-nav a[aria-current=page]::after{content:'';position:absolute;left:20%;right:20%;bottom:7px;height:1px;background:var(--gold-300);box-shadow:0 0 9px var(--gold-500)}
 
