@@ -38,3 +38,6 @@
 .footer-note .developer-credit a i::before,.footer-note .developer-credit a i::after{content:"";position:absolute;bottom:-2px;width:2px;background:currentColor}
 .footer-note .developer-credit a i::before{left:3px;height:8px}.footer-note .developer-credit a i::after{left:8px;height:12px}
 @media(max-width:600px){.footer-note .developer-credit a{font-size:.7rem}}
+/* Marca AS em barras: não depende de bordas herdadas. */
+.footer-note .developer-credit a i{display:inline-block!important;flex:0 0 16px!important;width:16px!important;height:15px!important;border:0!important;background:linear-gradient(currentColor,currentColor) 0 100%/2px 7px no-repeat,linear-gradient(currentColor,currentColor) 6px 100%/2px 11px no-repeat,linear-gradient(currentColor,currentColor) 12px 100%/2px 15px no-repeat}
+.footer-note .developer-credit a i::before,.footer-note .developer-credit a i::after{display:none!important}
