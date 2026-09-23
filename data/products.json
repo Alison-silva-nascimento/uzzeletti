@@ -827,5 +827,28 @@
       "assets/images/catalog/incoming-20260922/conjunto-conforto.png"
     ],
     "description": "Conjunto confortável com acabamento em renda."
+  },
+  {
+    "id": 51,
+    "slug": "conjunto-rendinha",
+    "name": "Conjunto Rendinha",
+    "category": "conjuntos",
+    "price": 85.0,
+    "sizes": [
+      "M"
+    ],
+    "colors": [
+      "Rosa",
+      "Laranja",
+      "Preto"
+    ],
+    "featured": false,
+    "new": true,
+    "bestSeller": false,
+    "editorialBackground": true,
+    "images": [
+      "assets/images/catalog/incoming-20260922/conjunto-rendinha.png"
+    ],
+    "description": "Conjunto rendinha com acabamento delicado."
   }
 ]
