@@ -20,3 +20,6 @@
 
 /* Assinatura alinhada com o texto em todas as larguras. */
 .developer-credit{justify-content:center;white-space:nowrap!important}.developer-signature{width:auto;height:16px;max-width:42px;object-fit:contain}@media(max-width:600px){.footer-note .developer-credit{width:100%;min-height:18px;font-size:.68rem;line-height:1;gap:6px}}
+
+/* Bloco único: texto e assinatura não podem se separar. */
+.footer-note .developer-credit{display:flex!important;grid-column:1!important;width:100%;justify-content:center;align-items:center}.footer-note .developer-credit>a{display:inline-flex!important;align-items:center;justify-content:center;gap:6px;white-space:nowrap}.footer-note .developer-signature{flex:0 0 auto;height:16px;width:auto}
