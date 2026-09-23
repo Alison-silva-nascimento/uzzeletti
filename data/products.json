@@ -4,7 +4,7 @@
     "slug": "lis-in",
     "name": "Lis-in",
     "category": "eroticos",
-    "price": 75.0,
+    "price": 75,
     "sizes": [],
     "colors": [],
     "featured": false,
@@ -20,7 +20,7 @@
     "slug": "ducha-higienica-unissex",
     "name": "Ducha Higiênica Unissex",
     "category": "eroticos",
-    "price": 40.0,
+    "price": 40,
     "sizes": [],
     "colors": [],
     "featured": false,
@@ -36,7 +36,7 @@
     "slug": "gel-dessensibilizante",
     "name": "Gel Dessensibilizante",
     "category": "eroticos",
-    "price": 25.0,
+    "price": 25,
     "sizes": [],
     "colors": [],
     "featured": false,
@@ -62,7 +62,8 @@
     "images": [
       "assets/images/catalog/novidade-01.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Verde Floresta"
   },
   {
     "id": 13,
@@ -79,7 +80,8 @@
     "images": [
       "assets/images/catalog/novidade-02.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Rubi"
   },
   {
     "id": 14,
@@ -96,7 +98,8 @@
     "images": [
       "assets/images/catalog/novidade-03.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Roxo"
   },
   {
     "id": 15,
@@ -113,7 +116,8 @@
     "images": [
       "assets/images/catalog/novidade-04.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Vermelho"
   },
   {
     "id": 16,
@@ -130,7 +134,8 @@
     "images": [
       "assets/images/catalog/novidade-05.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Preto"
   },
   {
     "id": 17,
@@ -147,7 +152,8 @@
     "images": [
       "assets/images/catalog/novidade-06.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Vermelho"
   },
   {
     "id": 18,
@@ -164,7 +170,8 @@
     "images": [
       "assets/images/catalog/novidade-07.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Rosa"
   },
   {
     "id": 19,
@@ -181,7 +188,8 @@
     "images": [
       "assets/images/catalog/novidade-08.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Champagne"
   },
   {
     "id": 20,
@@ -198,7 +206,8 @@
     "images": [
       "assets/images/catalog/novidade-09.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Vermelho"
   },
   {
     "id": 21,
@@ -215,7 +224,8 @@
     "images": [
       "assets/images/catalog/novidade-10.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Rosa"
   },
   {
     "id": 22,
@@ -232,7 +242,8 @@
     "images": [
       "assets/images/catalog/novidade-11.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Rosa"
   },
   {
     "id": 23,
@@ -249,7 +260,8 @@
     "images": [
       "assets/images/catalog/novidade-12.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Bronze"
   },
   {
     "id": 24,
@@ -266,7 +278,8 @@
     "images": [
       "assets/images/catalog/novidade-13.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Bronze"
   },
   {
     "id": 25,
@@ -283,7 +296,8 @@
     "images": [
       "assets/images/catalog/novidade-14.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Rosa"
   },
   {
     "id": 26,
@@ -300,7 +314,8 @@
     "images": [
       "assets/images/catalog/novidade-15.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Rosa"
   },
   {
     "id": 27,
@@ -317,7 +332,8 @@
     "images": [
       "assets/images/catalog/novidade-16.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Roxo"
   },
   {
     "id": 28,
@@ -334,7 +350,8 @@
     "images": [
       "assets/images/catalog/novidade-17.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Vermelho"
   },
   {
     "id": 29,
@@ -351,7 +368,8 @@
     "images": [
       "assets/images/catalog/novidade-18.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Vermelho"
   },
   {
     "id": 30,
@@ -368,7 +386,8 @@
     "images": [
       "assets/images/catalog/novidade-19.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Rubi"
   },
   {
     "id": 31,
@@ -385,7 +404,8 @@
     "images": [
       "assets/images/catalog/novidade-20.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Bronze"
   },
   {
     "id": 32,
@@ -402,7 +422,8 @@
     "images": [
       "assets/images/catalog/novidade-21.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Branco"
   },
   {
     "id": 33,
@@ -419,14 +440,15 @@
     "images": [
       "assets/images/catalog/novidade-22.jpeg"
     ],
-    "description": "Peça disponível para consulta de disponibilidade."
+    "description": "Peça disponível para consulta de disponibilidade.",
+    "displayColor": "Rosa"
   },
   {
     "id": 34,
     "slug": "camisola-rose-52",
     "name": "Camisola Rosé",
     "category": "camisolas",
-    "price": 80.0,
+    "price": 80,
     "sizes": [
       "52"
     ],
@@ -442,7 +464,8 @@
     "images": [
       "assets/images/catalog/incoming-20260922/camisola-rose-52.png"
     ],
-    "description": "Camisola delicada com acabamento em renda."
+    "description": "Camisola delicada com acabamento em renda.",
+    "displayColor": "Rosa"
   },
   {
     "id": 35,
@@ -467,14 +490,15 @@
     "images": [
       "assets/images/catalog/incoming-20260922/camisola-preta-sem-bojo.png"
     ],
-    "description": "Camisola sem bojo com detalhe em renda."
+    "description": "Camisola sem bojo com detalhe em renda.",
+    "displayColor": "Preto"
   },
   {
     "id": 36,
     "slug": "camisola-rosa-romance",
     "name": "Camisola sem Bojo Rosa Romance",
     "category": "camisolas",
-    "price": 133.0,
+    "price": 133,
     "sizes": [
       "P",
       "M",
@@ -491,14 +515,15 @@
     "images": [
       "assets/images/catalog/incoming-20260922/camisola-rosa-romance.png"
     ],
-    "description": "Camisola sem bojo em rosa romance."
+    "description": "Camisola sem bojo em rosa romance.",
+    "displayColor": "Rosa Romance"
   },
   {
     "id": 37,
     "slug": "conjunto-leveza-conforto",
     "name": "Conjunto Leveza e Conforto sem Aro Soft",
     "category": "conjuntos",
-    "price": 90.0,
+    "price": 90,
     "sizes": [
       "P",
       "M",
@@ -521,14 +546,15 @@
     "images": [
       "assets/images/catalog/incoming-20260922/conjunto-leveza-conforto.png"
     ],
-    "description": "Conjunto leve e confortável, sem aro soft."
+    "description": "Conjunto leve e confortável, sem aro soft.",
+    "displayColor": "Vermelho"
   },
   {
     "id": 38,
     "slug": "conjunto-renda-rubi",
     "name": "Conjunto Renda Rubi",
     "category": "conjuntos",
-    "price": 75.0,
+    "price": 75,
     "sizes": [
       "M"
     ],
@@ -543,14 +569,15 @@
     "images": [
       "assets/images/catalog/incoming-20260922/conjunto-renda-rubi.png"
     ],
-    "description": "Conjunto em renda com fio duplo."
+    "description": "Conjunto em renda com fio duplo.",
+    "displayColor": "Rubi"
   },
   {
     "id": 39,
     "slug": "conjunto-renda-rufle",
     "name": "Conjunto Renda e Ruffle Fio Duplo",
     "category": "conjuntos",
-    "price": 120.0,
+    "price": 120,
     "sizes": [
       "G"
     ],
@@ -566,14 +593,15 @@
     "images": [
       "assets/images/catalog/incoming-20260922/conjunto-renda-rufle.png"
     ],
-    "description": "Conjunto em renda com ruffle e calcinha fio duplo."
+    "description": "Conjunto em renda com ruffle e calcinha fio duplo.",
+    "displayColor": "Vermelho"
   },
   {
     "id": 40,
     "slug": "conjunto-sexy-bordo",
     "name": "Conjunto Sexy Bordô",
     "category": "conjuntos",
-    "price": 130.0,
+    "price": 130,
     "sizes": [
       "M",
       "G"
@@ -590,14 +618,15 @@
     "images": [
       "assets/images/catalog/incoming-20260922/conjunto-sexy-bordo.png"
     ],
-    "description": "Conjunto sexy em renda."
+    "description": "Conjunto sexy em renda.",
+    "displayColor": "Vermelho"
   },
   {
     "id": 41,
     "slug": "conjunto-cropped-verde",
     "name": "Conjunto Cropped",
     "category": "conjuntos",
-    "price": 130.0,
+    "price": 130,
     "sizes": [
       "M",
       "G"
@@ -614,14 +643,15 @@
     "images": [
       "assets/images/catalog/incoming-20260922/conjunto-cropped-verde.png"
     ],
-    "description": "Conjunto cropped em renda."
+    "description": "Conjunto cropped em renda.",
+    "displayColor": "Verde Floresta"
   },
   {
     "id": 42,
     "slug": "conjunto-renda-bordo",
     "name": "Conjunto Renda Bordô",
     "category": "conjuntos",
-    "price": 120.0,
+    "price": 120,
     "sizes": [
       "M",
       "G"
@@ -638,14 +668,15 @@
     "images": [
       "assets/images/catalog/incoming-20260922/conjunto-renda-bordo.png"
     ],
-    "description": "Conjunto em renda com acabamento delicado."
+    "description": "Conjunto em renda com acabamento delicado.",
+    "displayColor": "Vermelho"
   },
   {
     "id": 43,
     "slug": "conjunto-renda-preto",
     "name": "Conjunto Renda Calcinha Fio Duplo",
     "category": "conjuntos",
-    "price": 70.0,
+    "price": 70,
     "sizes": [
       "G",
       "GG"
@@ -660,14 +691,15 @@
     "images": [
       "assets/images/catalog/incoming-20260922/conjunto-renda-preto.png"
     ],
-    "description": "Conjunto em renda com calcinha fio duplo."
+    "description": "Conjunto em renda com calcinha fio duplo.",
+    "displayColor": "Preto"
   },
   {
     "id": 44,
     "slug": "conjunto-renda-roxo",
     "name": "Conjunto Renda Calcinha Fio Duplo Rendado",
     "category": "conjuntos",
-    "price": 90.0,
+    "price": 90,
     "sizes": [
       "G",
       "GG"
@@ -686,14 +718,15 @@
     "images": [
       "assets/images/catalog/incoming-20260922/conjunto-renda-roxo.png"
     ],
-    "description": "Conjunto rendado com calcinha fio duplo."
+    "description": "Conjunto rendado com calcinha fio duplo.",
+    "displayColor": "Roxo"
   },
   {
     "id": 45,
     "slug": "conjunto-charme",
     "name": "Conjunto Charme",
     "category": "conjuntos",
-    "price": 110.0,
+    "price": 110,
     "sizes": [
       "GG"
     ],
@@ -709,14 +742,15 @@
     "images": [
       "assets/images/catalog/incoming-20260922/conjunto-charme.png"
     ],
-    "description": "Conjunto charme em renda."
+    "description": "Conjunto charme em renda.",
+    "displayColor": "Vermelho"
   },
   {
     "id": 46,
     "slug": "conjunto-renda-rosa",
     "name": "Conjunto Renda Fio Duplo",
     "category": "conjuntos",
-    "price": 120.0,
+    "price": 120,
     "sizes": [
       "M"
     ],
@@ -731,14 +765,15 @@
     "images": [
       "assets/images/catalog/incoming-20260922/conjunto-renda-rosa.png"
     ],
-    "description": "Conjunto em renda com fio duplo."
+    "description": "Conjunto em renda com fio duplo.",
+    "displayColor": "Rosa"
   },
   {
     "id": 47,
     "slug": "conjunto-bronze",
     "name": "Conjunto Bronze",
     "category": "conjuntos",
-    "price": 90.0,
+    "price": 90,
     "sizes": [
       "M",
       "G",
@@ -757,14 +792,15 @@
     "images": [
       "assets/images/catalog/incoming-20260922/conjunto-bronze.png"
     ],
-    "description": "Conjunto em renda disponível em cores selecionadas."
+    "description": "Conjunto em renda disponível em cores selecionadas.",
+    "displayColor": "Bronze"
   },
   {
     "id": 48,
     "slug": "camisola-vermelha-com-calcinha-fio",
     "name": "Camisola Vermelha com Calcinha Fio",
     "category": "camisolas",
-    "price": 80.0,
+    "price": 80,
     "sizes": [
       "G"
     ],
@@ -779,14 +815,15 @@
     "images": [
       "assets/images/catalog/camisola-vermelha-editorial.png"
     ],
-    "description": "Camisola sem bojo com calcinha fio inclusa."
+    "description": "Camisola sem bojo com calcinha fio inclusa.",
+    "displayColor": "Vermelho"
   },
   {
     "id": 49,
     "slug": "conjunto-sexy",
     "name": "Conjunto Sexy",
     "category": "conjuntos",
-    "price": 50.0,
+    "price": 50,
     "sizes": [
       "M"
     ],
@@ -801,14 +838,15 @@
     "images": [
       "assets/images/catalog/conjunto-sexy-editorial.png"
     ],
-    "description": "Conjunto sexy com renda, liga e meias."
+    "description": "Conjunto sexy com renda, liga e meias.",
+    "displayColor": "Vermelho"
   },
   {
     "id": 50,
     "slug": "conjunto-conforto",
     "name": "Conjunto Conforto",
     "category": "conjuntos",
-    "price": 115.0,
+    "price": 115,
     "sizes": [
       "M",
       "G",
@@ -826,14 +864,15 @@
     "images": [
       "assets/images/catalog/incoming-20260922/conjunto-conforto.png"
     ],
-    "description": "Conjunto confortável com acabamento em renda."
+    "description": "Conjunto confortável com acabamento em renda.",
+    "displayColor": "Branco"
   },
   {
     "id": 51,
     "slug": "conjunto-rendinha",
     "name": "Conjunto Rendinha",
     "category": "conjuntos",
-    "price": 85.0,
+    "price": 85,
     "sizes": [
       "M"
     ],
@@ -849,6 +888,7 @@
     "images": [
       "assets/images/catalog/incoming-20260922/conjunto-rendinha.png"
     ],
-    "description": "Conjunto rendinha com acabamento delicado."
+    "description": "Conjunto rendinha com acabamento delicado.",
+    "displayColor": "Rosa"
   }
 ]
