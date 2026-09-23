@@ -54,3 +54,4 @@
   .page-hero .page-title .gold{font-size:inherit;letter-spacing:inherit}
   .contact-page .page-hero{margin-top:124px;padding-top:38px!important}
 }
+@media(max-width:600px){.product-actions{gap:8px}.product-actions .product-price{font-size:.8rem}.product-actions .product-cta{margin-top:0}}
