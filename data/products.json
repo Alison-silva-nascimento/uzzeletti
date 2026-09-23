@@ -465,7 +465,21 @@
       "assets/images/catalog/incoming-20260922/camisola-rose-52.png"
     ],
     "description": "Camisola delicada com acabamento em renda.",
-    "displayColor": "Rosa"
+    "displayColor": "Rosa",
+    "variants": [
+      {
+        "color": "Rosa",
+        "image": "assets/images/catalog/incoming-20260922/camisola-rose-52.png"
+      },
+      {
+        "color": "Champagne",
+        "image": "assets/images/catalog/variations/camisola-rose-champagne.png"
+      },
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/variations/camisola-rose-preto.png"
+      }
+    ]
   },
   {
     "id": 35,
@@ -491,7 +505,21 @@
       "assets/images/catalog/incoming-20260922/camisola-preta-sem-bojo.png"
     ],
     "description": "Camisola sem bojo com detalhe em renda.",
-    "displayColor": "Preto"
+    "displayColor": "Preto",
+    "variants": [
+      {
+        "color": "Bronze",
+        "image": "assets/images/catalog/variations/camisola-sem-bojo-bronze.png"
+      },
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/incoming-20260922/camisola-preta-sem-bojo.png"
+      },
+      {
+        "color": "Branco",
+        "image": "assets/images/catalog/variations/camisola-sem-bojo-branco.png"
+      }
+    ]
   },
   {
     "id": 36,
@@ -516,7 +544,17 @@
       "assets/images/catalog/incoming-20260922/camisola-rosa-romance.png"
     ],
     "description": "Camisola sem bojo em rosa romance.",
-    "displayColor": "Rosa Romance"
+    "displayColor": "Rosa Romance",
+    "variants": [
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/variations/camisola-rosa-romance-preto.png"
+      },
+      {
+        "color": "Rosa Romance",
+        "image": "assets/images/catalog/incoming-20260922/camisola-rosa-romance.png"
+      }
+    ]
   },
   {
     "id": 37,
@@ -547,7 +585,37 @@
       "assets/images/catalog/incoming-20260922/conjunto-leveza-conforto.png"
     ],
     "description": "Conjunto leve e confortável, sem aro soft.",
-    "displayColor": "Vermelho"
+    "displayColor": "Vermelho",
+    "variants": [
+      {
+        "color": "Branco",
+        "image": "assets/images/catalog/variations/conjunto-leveza-branco.png"
+      },
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/variations/conjunto-leveza-preto.png"
+      },
+      {
+        "color": "Canela",
+        "image": "assets/images/catalog/variations/conjunto-leveza-canela.png"
+      },
+      {
+        "color": "Rubi",
+        "image": "assets/images/catalog/variations/conjunto-leveza-rubi.png"
+      },
+      {
+        "color": "Roxo",
+        "image": "assets/images/catalog/variations/conjunto-leveza-roxo.png"
+      },
+      {
+        "color": "Odalisca",
+        "image": "assets/images/catalog/variations/conjunto-leveza-odalisca.png"
+      },
+      {
+        "color": "Bronze",
+        "image": "assets/images/catalog/variations/conjunto-leveza-bronze.png"
+      }
+    ]
   },
   {
     "id": 38,
@@ -570,7 +638,17 @@
       "assets/images/catalog/incoming-20260922/conjunto-renda-rubi.png"
     ],
     "description": "Conjunto em renda com fio duplo.",
-    "displayColor": "Rubi"
+    "displayColor": "Rubi",
+    "variants": [
+      {
+        "color": "Rubi",
+        "image": "assets/images/catalog/incoming-20260922/conjunto-renda-rubi.png"
+      },
+      {
+        "color": "Branco",
+        "image": "assets/images/catalog/variations/conjunto-renda-rubi-branco.png"
+      }
+    ]
   },
   {
     "id": 39,
@@ -594,7 +672,21 @@
       "assets/images/catalog/incoming-20260922/conjunto-renda-rufle.png"
     ],
     "description": "Conjunto em renda com ruffle e calcinha fio duplo.",
-    "displayColor": "Vermelho"
+    "displayColor": "Vermelho",
+    "variants": [
+      {
+        "color": "Branco",
+        "image": "assets/images/catalog/variations/conjunto-rufle-branco.png"
+      },
+      {
+        "color": "Vermelho",
+        "image": "assets/images/catalog/incoming-20260922/conjunto-renda-rufle.png"
+      },
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/variations/conjunto-rufle-preto.png"
+      }
+    ]
   },
   {
     "id": 40,
@@ -619,7 +711,21 @@
       "assets/images/catalog/incoming-20260922/conjunto-sexy-bordo.png"
     ],
     "description": "Conjunto sexy em renda.",
-    "displayColor": "Vermelho"
+    "displayColor": "Vermelho",
+    "variants": [
+      {
+        "color": "Vermelho",
+        "image": "assets/images/catalog/incoming-20260922/conjunto-sexy-bordo.png"
+      },
+      {
+        "color": "Branco",
+        "image": "assets/images/catalog/variations/conjunto-sexy-bordo-branco.png"
+      },
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/variations/conjunto-sexy-bordo-preto.png"
+      }
+    ]
   },
   {
     "id": 41,
@@ -644,7 +750,21 @@
       "assets/images/catalog/incoming-20260922/conjunto-cropped-verde.png"
     ],
     "description": "Conjunto cropped em renda.",
-    "displayColor": "Verde Floresta"
+    "displayColor": "Verde Floresta",
+    "variants": [
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/variations/conjunto-cropped-preto.png"
+      },
+      {
+        "color": "Verde Floresta",
+        "image": "assets/images/catalog/incoming-20260922/conjunto-cropped-verde.png"
+      },
+      {
+        "color": "Branco",
+        "image": "assets/images/catalog/variations/conjunto-cropped-branco.png"
+      }
+    ]
   },
   {
     "id": 42,
@@ -669,7 +789,21 @@
       "assets/images/catalog/incoming-20260922/conjunto-renda-bordo.png"
     ],
     "description": "Conjunto em renda com acabamento delicado.",
-    "displayColor": "Vermelho"
+    "displayColor": "Vermelho",
+    "variants": [
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/variations/conjunto-renda-bordo-preto.png"
+      },
+      {
+        "color": "Vermelho",
+        "image": "assets/images/catalog/incoming-20260922/conjunto-renda-bordo.png"
+      },
+      {
+        "color": "Branco",
+        "image": "assets/images/catalog/variations/conjunto-renda-bordo-branco.png"
+      }
+    ]
   },
   {
     "id": 43,
@@ -692,7 +826,13 @@
       "assets/images/catalog/incoming-20260922/conjunto-renda-preto.png"
     ],
     "description": "Conjunto em renda com calcinha fio duplo.",
-    "displayColor": "Preto"
+    "displayColor": "Preto",
+    "variants": [
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/incoming-20260922/conjunto-renda-preto.png"
+      }
+    ]
   },
   {
     "id": 44,
@@ -719,7 +859,29 @@
       "assets/images/catalog/incoming-20260922/conjunto-renda-roxo.png"
     ],
     "description": "Conjunto rendado com calcinha fio duplo.",
-    "displayColor": "Roxo"
+    "displayColor": "Roxo",
+    "variants": [
+      {
+        "color": "Roxo",
+        "image": "assets/images/catalog/incoming-20260922/conjunto-renda-roxo.png"
+      },
+      {
+        "color": "Branco",
+        "image": "assets/images/catalog/variations/conjunto-renda-roxo-branco.png"
+      },
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/variations/conjunto-renda-roxo-preto.png"
+      },
+      {
+        "color": "Amarelo",
+        "image": "assets/images/catalog/variations/conjunto-renda-roxo-amarelo.png"
+      },
+      {
+        "color": "Verde Floresta",
+        "image": "assets/images/catalog/variations/conjunto-renda-roxo-verde-floresta.png"
+      }
+    ]
   },
   {
     "id": 45,
@@ -743,7 +905,21 @@
       "assets/images/catalog/incoming-20260922/conjunto-charme.png"
     ],
     "description": "Conjunto charme em renda.",
-    "displayColor": "Vermelho"
+    "displayColor": "Vermelho",
+    "variants": [
+      {
+        "color": "Vermelho",
+        "image": "assets/images/catalog/incoming-20260922/conjunto-charme.png"
+      },
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/variations/conjunto-charme-preto.png"
+      },
+      {
+        "color": "Branco",
+        "image": "assets/images/catalog/variations/conjunto-charme-branco.png"
+      }
+    ]
   },
   {
     "id": 46,
@@ -766,7 +942,17 @@
       "assets/images/catalog/incoming-20260922/conjunto-renda-rosa.png"
     ],
     "description": "Conjunto em renda com fio duplo.",
-    "displayColor": "Rosa"
+    "displayColor": "Rosa",
+    "variants": [
+      {
+        "color": "Branco",
+        "image": "assets/images/catalog/variations/conjunto-renda-rosa-branco.png"
+      },
+      {
+        "color": "Rosa",
+        "image": "assets/images/catalog/incoming-20260922/conjunto-renda-rosa.png"
+      }
+    ]
   },
   {
     "id": 47,
@@ -793,7 +979,25 @@
       "assets/images/catalog/incoming-20260922/conjunto-bronze.png"
     ],
     "description": "Conjunto em renda disponível em cores selecionadas.",
-    "displayColor": "Bronze"
+    "displayColor": "Bronze",
+    "variants": [
+      {
+        "color": "Amarelo",
+        "image": "assets/images/catalog/variations/conjunto-bronze-amarelo.png"
+      },
+      {
+        "color": "Roxo",
+        "image": "assets/images/catalog/variations/conjunto-bronze-roxo.png"
+      },
+      {
+        "color": "Bronze",
+        "image": "assets/images/catalog/incoming-20260922/conjunto-bronze.png"
+      },
+      {
+        "color": "Branco",
+        "image": "assets/images/catalog/variations/conjunto-bronze-branco.png"
+      }
+    ]
   },
   {
     "id": 48,
@@ -816,7 +1020,17 @@
       "assets/images/catalog/camisola-vermelha-editorial.png"
     ],
     "description": "Camisola sem bojo com calcinha fio inclusa.",
-    "displayColor": "Vermelho"
+    "displayColor": "Vermelho",
+    "variants": [
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/variations/camisola-vermelha-preto.png"
+      },
+      {
+        "color": "Vermelho",
+        "image": "assets/images/catalog/camisola-vermelha-editorial.png"
+      }
+    ]
   },
   {
     "id": 49,
@@ -839,7 +1053,17 @@
       "assets/images/catalog/conjunto-sexy-editorial.png"
     ],
     "description": "Conjunto sexy com renda, liga e meias.",
-    "displayColor": "Vermelho"
+    "displayColor": "Vermelho",
+    "variants": [
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/variations/conjunto-sexy-preto.png"
+      },
+      {
+        "color": "Vermelho",
+        "image": "assets/images/catalog/conjunto-sexy-editorial.png"
+      }
+    ]
   },
   {
     "id": 50,
@@ -865,7 +1089,21 @@
       "assets/images/catalog/incoming-20260922/conjunto-conforto.png"
     ],
     "description": "Conjunto confortável com acabamento em renda.",
-    "displayColor": "Branco"
+    "displayColor": "Branco",
+    "variants": [
+      {
+        "color": "Branco",
+        "image": "assets/images/catalog/incoming-20260922/conjunto-conforto.png"
+      },
+      {
+        "color": "Bronze",
+        "image": "assets/images/catalog/variations/conjunto-conforto-bronze.png"
+      },
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/variations/conjunto-conforto-preto.png"
+      }
+    ]
   },
   {
     "id": 51,
@@ -889,6 +1127,20 @@
       "assets/images/catalog/incoming-20260922/conjunto-rendinha.png"
     ],
     "description": "Conjunto rendinha com acabamento delicado.",
-    "displayColor": "Rosa"
+    "displayColor": "Rosa",
+    "variants": [
+      {
+        "color": "Rosa",
+        "image": "assets/images/catalog/incoming-20260922/conjunto-rendinha.png"
+      },
+      {
+        "color": "Laranja",
+        "image": "assets/images/catalog/variations/conjunto-rendinha-laranja.png"
+      },
+      {
+        "color": "Preto",
+        "image": "assets/images/catalog/variations/conjunto-rendinha-preto.png"
+      }
+    ]
   }
 ]
