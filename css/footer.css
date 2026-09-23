@@ -41,3 +41,6 @@
 /* Marca AS em barras: não depende de bordas herdadas. */
 .footer-note .developer-credit a i{display:inline-block!important;flex:0 0 16px!important;width:16px!important;height:15px!important;border:0!important;background:linear-gradient(currentColor,currentColor) 0 100%/2px 7px no-repeat,linear-gradient(currentColor,currentColor) 6px 100%/2px 11px no-repeat,linear-gradient(currentColor,currentColor) 12px 100%/2px 15px no-repeat}
 .footer-note .developer-credit a i::before,.footer-note .developer-credit a i::after{display:none!important}
+
+/* SVG inline: marca AS não depende de regras de fundo ou pseudo-elementos. */
+.footer-note .developer-credit a .developer-mark{display:block!important;flex:0 0 16px!important;width:16px!important;height:15px!important;fill:currentColor!important;color:currentColor!important}
