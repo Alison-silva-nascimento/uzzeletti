@@ -23,3 +23,10 @@
 
 /* Bloco único: texto e assinatura não podem se separar. */
 .footer-note .developer-credit{display:flex!important;grid-column:1!important;width:100%;justify-content:center;align-items:center}.footer-note .developer-credit>a{display:inline-flex!important;align-items:center;justify-content:center;gap:6px;white-space:nowrap}.footer-note .developer-signature{flex:0 0 auto;height:16px;width:auto}
+
+/* Assinatura autocontida: nenhum elemento interno pode ser deslocado pelo rodapé. */
+.footer-note>a.developer-credit{display:inline-flex!important;grid-column:1!important;grid-row:auto!important;position:static!important;float:none!important;align-items:center;justify-content:center;gap:7px;width:100%;min-height:20px;margin:0!important;padding:0!important;color:var(--muted);font-family:inherit;font-size:inherit;line-height:1;text-align:center;text-decoration:none;white-space:nowrap}
+.footer-note>a.developer-credit::after{content:'';display:block;flex:0 0 41px;width:41px;height:16px;background:url('../assets/logo/alison-silva-signature.png') center/contain no-repeat;mix-blend-mode:screen}
+.footer-note>a.developer-credit:hover,.footer-note>a.developer-credit:focus-visible{color:var(--gold-100);text-decoration:underline;text-underline-offset:3px}
+.footer-note>a.developer-credit:focus-visible{outline:1px solid var(--gold-300);outline-offset:3px}
+@media(max-width:600px){.footer-note>a.developer-credit{font-size:.68rem!important}}
