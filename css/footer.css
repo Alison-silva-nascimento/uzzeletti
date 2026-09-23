@@ -17,3 +17,6 @@
 @media(max-width:600px){.whatsapp-float{display:grid;right:max(14px,env(safe-area-inset-right));bottom:max(76px,calc(62px + env(safe-area-inset-bottom));width:48px;height:48px}.support-open .whatsapp-float,.menu-open .whatsapp-float{opacity:0;visibility:hidden;pointer-events:none}}
 
 .developer-credit{display:inline-flex;align-items:center;gap:5px}.developer-credit a{display:inline-flex;align-items:center;text-decoration:none}.developer-signature{display:block;width:41px;height:auto;mix-blend-mode:screen;transition:filter var(--ease),transform var(--ease)}.developer-credit a:hover .developer-signature,.developer-credit a:focus-visible .developer-signature{filter:brightness(1.18);transform:translateY(-1px)}.developer-credit a:focus-visible{outline:1px solid var(--gold-300);outline-offset:3px}
+
+/* Assinatura alinhada com o texto em todas as larguras. */
+.developer-credit{justify-content:center;white-space:nowrap!important}.developer-signature{width:auto;height:16px;max-width:42px;object-fit:contain}@media(max-width:600px){.footer-note .developer-credit{width:100%;min-height:18px;font-size:.68rem;line-height:1;gap:6px}}
