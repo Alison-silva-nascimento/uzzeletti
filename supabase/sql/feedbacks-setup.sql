@@ -13,5 +13,3 @@ alter table public.feedback_submission_limits enable row level security;
 revoke all on table public.feedback_submission_limits from anon, authenticated;
 grant select, insert, update on table public.feedback_submission_limits to service_role;
 select has_table_privilege('anon','public.feedbacks','select') as anon_can_read,has_table_privilege('anon','public.feedbacks','insert, update, delete') as anon_can_write,has_table_privilege('authenticated','public.feedbacks','insert, update, delete') as authenticated_can_write;
-
-

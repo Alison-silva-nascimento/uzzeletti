@@ -24,4 +24,3 @@ Depois acesse **Integrations > Data API > Settings** e exponha `feedbacks` e `fe
 - Execute o **Security Advisor** do Supabase e corrija qualquer alerta relacionado às tabelas criadas.
 
 A página nunca coleta e-mail, telefone, endereço, pedido ou outros dados de contato. Os únicos dados públicos são nome/apelido, nota, mensagem e data.
-
