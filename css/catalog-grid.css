@@ -1,0 +1,43 @@
+/* Vitrine comercial: leitura ampla e produtos lado a lado. */
+@media(min-width:901px){
+  .catalog-layout{display:block!important}
+  .catalog-layout .product-grid{grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:18px!important}
+  .catalog-layout .product-card{min-width:0}
+  .catalog-layout .product-media{aspect-ratio:4/5!important}
+  .catalog-layout .product-info{padding:14px 2px 24px!important}
+  .catalog-layout .product-name{font-size:1.18rem!important;line-height:1.1!important}
+  .catalog-layout .product-meta{font-size:.62rem!important}
+  .catalog-layout .product-actions{display:flex;flex-direction:column;align-items:flex-start;gap:5px;padding-top:9px;border-top:1px solid rgba(233,198,110,.17)}
+  .catalog-layout .product-price{margin:0;font-family:var(--serif);font-size:1.04rem}
+  .catalog-layout .product-cta{font-size:.62rem}
+  .filter-panel{position:static!important;display:grid!important;grid-template-columns:1.15fr repeat(4,minmax(130px,1fr)) auto!important;align-items:end!important;gap:12px!important;margin:0 0 28px!important;padding:16px!important;border:1px solid rgba(233,198,110,.18)!important;border-radius:16px!important;background:linear-gradient(135deg,rgba(103,8,23,.38),rgba(48,0,8,.5))!important;box-shadow:none!important}
+  .filter-panel h2,.filter-close{display:none!important}
+  .filter-actions{display:flex!important;gap:8px!important}
+  .filter-actions .btn{min-height:46px;padding-inline:14px!important;font-size:.62rem!important}
+  .catalog-top{padding:0!important;border:0!important;border-radius:0!important;background:transparent!important;margin-bottom:18px!important}
+  body:has(.catalog-layout) .section>.container{width:min(100% - 36px,1720px)!important;max-width:none!important}
+}
+@media(max-width:600px){.catalog-layout .product-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}.catalog-layout .product-media{aspect-ratio:4/5!important}.catalog-layout .product-actions{display:block}.catalog-layout .product-price{display:block;margin:0 0 5px}}
+/* Barra de filtros organizada e página erótica isolada. */
+@media(min-width:901px){
+  .catalog-top{display:grid!important;grid-template-columns:1fr auto!important;align-items:end!important;min-height:0!important;padding:0 0 16px!important;margin-bottom:16px!important;border-bottom:1px solid rgba(233,198,110,.18)!important}
+  .catalog-top label{display:grid!important;gap:7px!important;min-width:190px!important;font-size:.76rem!important}
+  .catalog-layout .filter-panel{margin-bottom:26px!important}
+  .erotic-catalog .catalog-layout .filter-panel{grid-template-columns:repeat(3,minmax(150px,1fr)) auto!important}
+  .erotic-catalog .catalog-layout .product-grid{grid-template-columns:repeat(3,minmax(0,1fr))!important;max-width:1120px!important}
+}
+.catalog-intro{margin:10px 0 0;color:var(--muted);font-size:1rem;letter-spacing:.02em}
+@media(max-width:600px){.catalog-intro{font-size:.9rem}}
+
+/* Cabeçalho de catálogo compacto: produtos entram na primeira dobra. */
+.catalog-page .page-hero{min-height:0!important;padding:124px 0 24px!important}
+.catalog-page .page-hero .eyebrow{font-size:.64rem!important}
+.catalog-page .page-title{margin:7px 0 0!important;font-size:clamp(2.6rem,4.2vw,4.5rem)!important;line-height:.95!important}
+.catalog-page .catalog-intro{margin-top:7px!important;font-size:.9rem!important}
+@media(max-width:900px){.catalog-page .page-hero{padding:132px 0 20px!important}.catalog-page .page-title{font-size:clamp(2.25rem,10vw,3.5rem)!important}.catalog-page .catalog-intro{font-size:.84rem!important}}
+/* Barra superior do catálogo: ordenação primeiro, contagem ao final. */
+@media(min-width:901px){
+  .catalog-top{grid-template-columns:auto 1fr!important}
+  .catalog-top>label{grid-column:1!important;grid-row:1!important;justify-self:start!important}
+  .catalog-top>#results-count{grid-column:2!important;grid-row:1!important;justify-self:end!important;text-align:right!important}
+}

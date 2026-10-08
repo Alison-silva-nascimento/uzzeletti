@@ -16,3 +16,5 @@
 @media(max-width:1180px) and (min-width:901px){.brand img{width:125px}.nav>a:not(.header-cta){padding-inline:14px;font-size:.72rem}.header-cta{margin-left:12px;padding-inline:16px;gap:9px;font-size:.7rem}}
 @media(max-width:900px){.nav-wrap{height:84px}.menu-toggle{display:block}.nav{position:fixed;inset:84px 0 0;height:auto;background:var(--red-950);display:flex;flex-direction:column;justify-content:center;align-items:center;gap:0;transform:translateX(100%);transition:transform .3s ease}.nav.open{transform:none}.nav>a:not(.header-cta){min-height:56px;padding:0 28px;font-size:1rem}.nav>a:not(.header-cta)+a:not(.header-cta)::before,.nav>a:not(.header-cta)+a:not(.header-cta)::after{display:none}.nav>a:not(.header-cta)[aria-current=page]{background:linear-gradient(transparent 94%,var(--gold-500) 94%)}.header-cta{min-height:54px;margin:18px 0 0;padding:0 28px}.brand img{width:145px}}
 @media(max-width:600px){.nav-wrap{height:72px}.nav{inset:72px 0 0}}
+/* Navegação desktop compacta após a redução de abas. */
+@media(min-width:901px){.nav>a:not(.header-cta){padding-inline:17px}.header-cta{margin-left:14px}}
