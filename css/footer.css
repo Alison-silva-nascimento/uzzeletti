@@ -48,3 +48,20 @@
 @media(min-width:901px){.site-footer{margin:34px 14px 14px;padding:48px 0 20px;border:1px solid rgba(233,198,110,.16);border-radius:30px;background:radial-gradient(circle at 8% 8%,rgba(199,154,50,.1),transparent 26%),linear-gradient(135deg,#330006,#210003);box-shadow:0 20px 52px rgba(20,0,3,.26)}.footer-grid{grid-template-columns:1.25fr .85fr 1.15fr;gap:70px;align-items:start}.footer-logo{width:185px;margin-bottom:10px}.footer-links{gap:7px}.footer-note{margin-top:32px;padding-top:16px}.footer-note>span:first-child{font-size:.72rem}.footer-title{margin-bottom:12px}}
 /* Espaço final compacto no rodapé móvel, preservando os atalhos flutuantes. */
 @media(max-width:600px){.site-footer{padding-bottom:max(76px,calc(62px + env(safe-area-inset-bottom)))!important}}
+/* Rodapé compacto: mantém todos os canais de contato sem ocupar uma tela inteira. */
+@media(min-width:901px){
+  .site-footer{margin:16px 14px 14px!important;padding:24px 0 12px!important;border-radius:20px!important}
+  .site-footer .footer-grid{grid-template-columns:.7fr .8fr 1.25fr!important;gap:30px!important;align-items:center!important}
+  .site-footer .footer-logo{width:132px!important;margin:0!important}
+  .site-footer .footer-title{margin:0 0 7px!important}
+  .site-footer .footer-links{gap:4px!important;font-size:.8rem!important;line-height:1.35!important}
+  .site-footer .footer-note{margin-top:18px!important;padding-top:11px!important;font-size:.68rem!important}
+}
+@media(max-width:600px){
+  .site-footer{margin-top:18px!important;padding:30px 0 max(74px,calc(60px + env(safe-area-inset-bottom)))!important}
+  .site-footer .footer-grid{row-gap:20px!important;column-gap:16px!important}
+  .site-footer .footer-logo{width:138px!important;margin:0 auto!important}
+  .site-footer .footer-title{margin-bottom:6px!important}
+  .site-footer .footer-links{gap:3px!important;font-size:.78rem!important;line-height:1.4!important}
+  .site-footer .footer-note{margin-top:18px!important;padding-top:10px!important;gap:5px!important;font-size:.63rem!important}
+}
