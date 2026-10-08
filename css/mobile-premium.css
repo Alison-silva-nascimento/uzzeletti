@@ -53,6 +53,17 @@
   .page-hero::after{inset:10px;border-radius:18px}
   .page-hero .page-title .gold{font-size:inherit;letter-spacing:inherit}
   .contact-page .page-hero{margin-top:124px;padding-top:38px!important}
+
+  /* Keep the secondary-page covers as compact as the product catalogue. */
+  .contact-page .page-hero,
+  .feedbacks-page .page-hero{min-height:0!important;margin:120px 10px 0!important;padding:18px!important;background-position:66% 42%!important}
+  .contact-page .page-hero::after,
+  .feedbacks-page .page-hero::after{inset:7px!important}
+  .contact-page .page-hero .eyebrow,
+  .feedbacks-page .page-hero .eyebrow{font-size:.56rem!important}
+  .contact-page .page-title,
+  .feedbacks-page .page-title{margin:6px 0 0!important;font-size:clamp(2.15rem,10vw,2.85rem)!important;line-height:.9!important}
+  .feedbacks-page .feedbacks-hero p{display:none!important}
 }
 @media(max-width:600px){.product-actions{gap:8px}.product-actions .product-price{font-size:.8rem}.product-actions .product-cta{margin-top:0}}
 

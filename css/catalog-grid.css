@@ -41,3 +41,18 @@
   .catalog-top>label{grid-column:1!important;grid-row:1!important;justify-self:start!important}
   .catalog-top>#results-count{grid-column:2!important;grid-row:1!important;justify-self:end!important;text-align:right!important}
 }
+/* Página erótica: cabeçalho móvel mais curto para chegar aos itens rapidamente. */
+@media(max-width:600px){
+  .erotic-catalog .page-hero{min-height:0!important;margin:120px 10px 0!important;padding:18px 18px 16px!important;background-position:66% 42%!important}
+  .erotic-catalog .page-hero::after{inset:7px!important}
+  .erotic-catalog .page-hero .eyebrow{font-size:.56rem!important}
+  .erotic-catalog .page-title{margin:6px 0 0!important;font-size:clamp(2.15rem,10vw,2.85rem)!important;line-height:.9!important}
+}
+/* Catálogo geral: hero móvel conciso, focado em revelar a grade. */
+@media(max-width:600px){
+  .catalog-page:not(.erotic-catalog) .page-hero{min-height:0!important;margin:120px 10px 0!important;padding:18px 18px 16px!important;background-position:66% 42%!important}
+  .catalog-page:not(.erotic-catalog) .page-hero::after{inset:7px!important}
+  .catalog-page:not(.erotic-catalog) .page-hero .eyebrow{font-size:.56rem!important}
+  .catalog-page:not(.erotic-catalog) .page-title{margin:6px 0 0!important;font-size:clamp(2.15rem,10vw,2.85rem)!important;line-height:.9!important}
+  .catalog-page:not(.erotic-catalog) .catalog-intro{margin-top:5px!important;font-size:.76rem!important}
+}

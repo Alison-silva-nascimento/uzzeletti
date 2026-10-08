@@ -20,3 +20,30 @@
   .hero p{max-width:440px!important;margin-bottom:29px!important}
 }
 @media(max-width:600px){.hero{background-image:linear-gradient(180deg,rgba(37,0,6,.34),rgba(37,0,6,.84) 72%,rgba(37,0,6,.98)),url('../assets/images/hero/hero-uzzeleti-editorial-v2.png')!important;background-position:62% center!important}.hero-content{padding-top:280px!important}.hero h1{font-size:clamp(3.05rem,14vw,4rem)!important}}
+/* Categorias mobile em carrossel horizontal, com indicação da próxima opção. */
+@media(max-width:600px){
+  .categories-section .category-grid{display:flex!important;gap:14px!important;overflow-x:auto!important;scroll-snap-type:x mandatory;scrollbar-width:none;padding:2px 0 14px!important;margin-right:calc((100vw - var(--container))/ -2)!important;padding-right:28px!important;-webkit-overflow-scrolling:touch}
+  .categories-section .category-grid::-webkit-scrollbar{display:none}
+  .categories-section .category,.categories-section .category:last-child{flex:0 0 min(78vw,300px)!important;min-height:390px!important;scroll-snap-align:start}
+}
+/* Hero mobile compacto: imagem presente sem adiar texto e produtos. */
+@media(max-width:600px){
+ .hero{min-height:620px!important;align-items:start!important;background-position:60% top!important}
+  .hero-content{padding:178px 0 38px!important}
+  .hero h1{margin:14px 0 14px!important;font-size:clamp(2.7rem,13vw,3.65rem)!important}
+  .hero p{margin-bottom:18px!important;font-size:.88rem!important;line-height:1.48!important}
+ .hero .eyebrow{font-size:.58rem!important}
+}
+
+/* The service highlights are redundant with the compact mobile footer. */
+@media (max-width:600px){
+  .benefits{display:none!important}
+}
+
+/* A concise mobile hero keeps the focus on the collection itself. */
+@media (max-width:600px){
+  .hero .eyebrow,
+  .hero p{display:none!important}
+  .hero-content{padding-top:238px!important}
+  .hero h1{font-size:clamp(2.45rem,12vw,3.25rem)!important;line-height:.94!important}
+}
