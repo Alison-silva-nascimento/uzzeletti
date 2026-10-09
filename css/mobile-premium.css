@@ -85,8 +85,9 @@
   .site-header .brand{position:absolute!important;left:50%!important;top:50%!important;z-index:2!important;transform:translate(-50%,-50%)!important;margin:0!important}
   .site-header .brand img{width:122px!important;height:48px!important}
   .site-header .header-actions{grid-column:3!important;grid-row:1!important;position:relative!important;z-index:3!important;justify-self:end!important;margin:0!important}
-  .site-header .nav{left:0!important;right:auto!important;transform:translateX(-100%)!important;box-shadow:18px 0 40px rgba(20,0,3,.38)!important}
+  .site-header .nav{inset:68px auto 0 0!important;width:min(88vw,360px)!important;min-width:280px!important;height:calc(100svh - 68px)!important;box-sizing:border-box!important;transform:translateX(-105%)!important;box-shadow:18px 0 40px rgba(20,0,3,.38)!important}
   .site-header .nav.open{transform:translateX(0)!important}
+  .site-header:has(.nav.open) .brand,.site-header:has(.nav.open) .header-actions{opacity:0!important;pointer-events:none!important}
 }
 
 @media(max-width:380px){
@@ -95,4 +96,5 @@
   .site-header .brand img{width:108px!important}
   .site-header .header-actions{gap:1px!important}
   .site-header .header-icon{width:25px!important}
+  .site-header .nav{width:92vw!important;min-width:0!important}
 }
